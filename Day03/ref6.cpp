@@ -8,7 +8,7 @@ int main()
 	cin >> indata;
 
 	//indata += 100;
-	int&& ref = indata + 100;					// r-value ÂüÁ¶ = const int& ref = »ó¼ö¸¦ ÂüÁ¶ÇÑ´Ù
+	int&& ref = indata + 100;					// r-value ì°¸ì¡° = const int& ref = ìƒìˆ˜ë¥¼ ì°¸ì¡°í•œë‹¤
 
 	cout << ref << endl;	
 
