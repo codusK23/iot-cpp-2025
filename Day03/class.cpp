@@ -8,11 +8,11 @@ private:
 
 public:
 	Myclass(int id, char name[20], int age) {
-		this->id = id;						// this.id´Â Àß¸øµÈ Ç¥Çö
+		this->id = id;						// this.idëŠ” ìž˜ëª»ëœ í‘œí˜„
 		this->age = age;	
-		strcpy(this->name, name);		// ¹è¿­À» ¼±¾ðÇÑ ·ç ¹®ÀÚ¿­À» ÀúÀåÇÏ´Â °æ¿ì´Â ´ëÀÔ¿¬»êÀÚ Ã³¸® ºÒ°¡
+		strcpy(this->name, name);		// ë°°ì—´ì„ ì„ ì–¸í•œ ë¬¸ìžì—´ì„ ì €ìž¥í•˜ëŠ” ê²½ìš°ëŠ” ëŒ€ìž…ì—°ì‚°ìž ì²˜ë¦¬ ë¶ˆê°€
 		//this->name = name;		
-		//this->name = "È«±æµ¿";
+		//this->name = "í™ê¸¸ë™";
 	}
 };
 
