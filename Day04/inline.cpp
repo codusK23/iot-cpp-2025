@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#define add(x) x + x		// ¸ÅÅ©·Î ÇÔ¼ö
+#define add(x) x + x		// ë§¤í¬ë¡œ í•¨ìˆ˜
 
 inline int func(int x)
 {
