@@ -11,7 +11,7 @@ int main()
 {
 	int num = 10;
 
-	const int& res = func(num);					// ¸®ÅÏµÇ´Â °ªÀÌ »ó¼ö´Ù
+	const int& res = func(num);					// ë¦¬í„´ë˜ëŠ” ê°’ì´ ìƒìˆ˜
 
 	cout << res << endl;
 
