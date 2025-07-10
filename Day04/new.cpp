@@ -6,7 +6,7 @@ int main()
 	int* arr;
 	int* arr2;
 
-	std::cout << "�迭ũ��: ";
+	std::cout << "배열크기: ";
 	std::cin >> size;
 
 	arr = new int;
